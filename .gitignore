@@ -1,6 +1,2 @@
-
-*.exe
-account.json
 __pycache__
 ignore.json
-data/history.json
